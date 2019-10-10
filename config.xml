@@ -64,7 +64,9 @@
 	<preference name="DisallowOverscroll" value="true"/>
 	<preference name="SplashScreenDelay" value="500"/>
 	<preference name="FadeSplashScreenDuration" value="0"/>
-	<preference name="android-minSdkVersion" value="19"/>
+	<preference name="android-compileSdkVersion" value="28"/>
+		<preference name="android-targetSdkVersion" value="28"/>
+			<preference name="android-minSdkVersion" value="24"/>
 	<preference name="BackupWebStorage" value="none"/>
 	<preference name="SplashScreen" value="screen"/>
 	<preference name="Orientation" value="portrait"/>
@@ -93,22 +95,14 @@
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="ionic-plugin-keyboard" />
 	<!-- ./default -->
-	<plugin name="cordova-plugin-admob-free" >
-		<variable name="ADMOB_APP_ID" value="ca-app-pub-5645689044341515~8993120786" />
-		</plugin>
+	<plugin name="cordova-plugin-admob-free" />
 	<plugin name="cordova-admob-sdk" />
 	<plugin name="cordova-plugin-dialogs" />
-	<plugin name="cordova-plugin-facebook4" >
-		<variable name="APP_ID" value="252213595673061" />
-		<variable name="APP_NAME" value="Krylatskoe ABC School App" />
-		</plugin>
-	<plugin name="cordova-plugin-firebaseui-auth" >
-		<variable name="REVERSED_CLIENT_ID" value="com.googleusercontent.apps.939683046035-okn6p2pkl85mtjitg6ctvfo6ul7lpig3" />
-		</plugin>
+	<plugin name="cordova-plugin-facebook4" />
+	<plugin name="cordova-plugin-firebaseui-auth" />
 	<plugin name="cordova-plugin-inappbrowser" />
 	<plugin name="cordova-plugin-network-information" />
 	<plugin name="onesignal-cordova-plugin" />
-	
 	<plugin name="cordova-promise-polyfill" />
 	<platform name="android">
 		<icon qualifier="ldpi" src="www/res/icon/android/ldpi-icon.png" />

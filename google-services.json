@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "939683046035",
+    "firebase_url": "https://school-abc.firebaseio.com",
+    "project_id": "school-abc",
+    "storage_bucket": "school-abc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939683046035:android:feea2f3372b9ca9c92a366",
+        "android_client_info": {
+          "package_name": "com.imabuilder.madagency.krylatskoeabcschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939683046035-d742b1i4djubsl7dirkjsgjso8bo8on2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imabuilder.madagency.krylatskoeabcschool",
+            "certificate_hash": "7efc7b2396e74048f3d807a81576cc39503afe61"
+          }
+        },
+        {
+          "client_id": "939683046035-8i9ilhkqm2hl9e3ivuahphnjktmfgs5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyoDQhEpanGryok-bpYGN1renSXEPTFKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939683046035-8i9ilhkqm2hl9e3ivuahphnjktmfgs5v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939683046035-ndtut7ockgf7ssou5suihtml836qra56.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.MadAgency.SchoolABC"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939683046035:android:bfbb2759898b0f8992a366",
+        "android_client_info": {
+          "package_name": "com.madagency.abc_school_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939683046035-okn6p2pkl85mtjitg6ctvfo6ul7lpig3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madagency.abc_school_app",
+            "certificate_hash": "4294b815fd3d0a354814291e25a952a4232b8acf"
+          }
+        },
+        {
+          "client_id": "939683046035-8i9ilhkqm2hl9e3ivuahphnjktmfgs5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyoDQhEpanGryok-bpYGN1renSXEPTFKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939683046035-8i9ilhkqm2hl9e3ivuahphnjktmfgs5v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939683046035-ndtut7ockgf7ssou5suihtml836qra56.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.MadAgency.SchoolABC"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939683046035:android:93d431193692c59892a366",
+        "android_client_info": {
+          "package_name": "com.madagency.mobileSCHOOLapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939683046035-vu1kqctgec1epg1hvv7bdh206kep3pd1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madagency.mobileSCHOOLapp",
+            "certificate_hash": "699842a17a30e982804f49b3c6fb96f09e32c167"
+          }
+        },
+        {
+          "client_id": "939683046035-8i9ilhkqm2hl9e3ivuahphnjktmfgs5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyoDQhEpanGryok-bpYGN1renSXEPTFKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939683046035-8i9ilhkqm2hl9e3ivuahphnjktmfgs5v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939683046035-ndtut7ockgf7ssou5suihtml836qra56.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.MadAgency.SchoolABC"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
